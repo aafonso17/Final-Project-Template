@@ -1,7 +1,9 @@
-## Project Title
+## Sea Surface Salinity in August 2011, July & January 2022
 
-Firstname Lastname  
+Ava Afonso  
 OCEAN 215 Final Project  
 Autumn 2024  
 
 *Summarize your research question, goals, and main results in 3-4 sentences.*
+
+My research question was whether or not sea salinity changes in a given time period. I chose for my time range to span from August 2011 to July & January 2022. My hypothesis on whether or not there would be a change in sea surface salinity that spanned upon about a decade is that there's not going to be much change other than some circulation and movement of salinity in the ocean due to surface currents/gyers in the Atlantic Ocean. Also from the Thermohalnine Circulation from the entire globe's ocean. I chose the region of my data to be in the Atlantic Ocean because I know that there's a lot of nutrients that go into the Atlantic that come from the Arctic Ocean (my favorite ocean because of the frozen phytoplankton in the snow) and I wanted to see if that had a great affect on it. A big shock of mine was how litte change there was when I compared the August 2011 graph to the July 2022 graph. Its salinity barely changed, you really have to look to see a change in color. An even bigger shock to me was how much of a change there was in the July and January 2022 salinities. To be honest, when I first ran both of their data set and graph's code (a couple weeks ago- in the middle of November), the graph didn't show up as any change. Then, right now, on December 1st, when I ran through the entire code again, for some reason, there's a huge change. It looks like January didn't get much coverage from the satellite towards the Arctic and its color is a lot lighter, representing being less salty. I'm pretty shocked since this didn't happen a few weeks ago and I'm wondering why it's so different now.  
